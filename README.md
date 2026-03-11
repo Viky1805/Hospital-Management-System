@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224110061
+# Name: Vignesh S
+# Date: 8-03-2026
 
 
 # AIM:
